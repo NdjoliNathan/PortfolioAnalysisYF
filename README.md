@@ -1,1 +1,1 @@
-## Foundational starting point for financial asset analysis,
+## Foundational starting point for financial asset analysis.
